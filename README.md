@@ -11,7 +11,7 @@ This is the github repo that goes along with an [article](https://mirror.xyz/das
 ## How to run the project
 Clone the reposity by using this command in a terminal\
 
-`` git clone https://github.com/BoxedFruits/ERC721-Reentrancy-Test.git``
+`` git clone https://github.com/BoxedFruits/ERC721A-Reentrancy-Test.git``
 
 In order to run the tests and see events that help to understand the process of events, run the tests at the highest verbosity
 
