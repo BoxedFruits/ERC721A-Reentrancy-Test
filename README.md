@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/34636700/183326356-fad105f1-52af-4e3f-8345-736bfe89dbc8.png" width="375"/>
+
 # Motivation
 This is the github repo that goes along with an [article](https://mirror.xyz/dashboard/edit/fD6oQ4mLKx1oF-FSw-dxmxFDFVJtvRa_G95231Q-WVk) I made that explores the reetrancy prevention built into [ERC721A](https://github.com/chiru-labs/ERC721A). The motivation for this repository is for learning purposes after a failed attempt by me to find a bug while browsing NFT contracts late one night. I had always seen threads and articles written about ERC721A's innovative gas optimzations but have never read about their reetrancy protection. I thought it was cool so I wanted to share!
 
